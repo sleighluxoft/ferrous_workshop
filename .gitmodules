@@ -1,0 +1,3 @@
+[submodule "embedded-trainings-2020"]
+	path = embedded-trainings-2020
+	url = https://github.com/ferrous-systems/embedded-trainings-2020
